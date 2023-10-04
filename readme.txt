@@ -9,3 +9,5 @@ Immuno™ ©
 4. If you see any changes in your system32 file and feel spectical you can tell us and we will explain why and what they are there for.
 
 5. Our custom commands/features will be listed in the repo description as an update log & commands/features section.
+
+6. If you feel suspisious of this give us a break and just dont install it, no need to say 'I think this may be a virus 🤓'.
