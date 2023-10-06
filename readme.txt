@@ -6,8 +6,6 @@ Immuno™ ©
 
 3. This will not give you any sort of virus, if you claim this will give you a virus we can provide proof therefore you should too.
 
-4. If you see any changes in your system32 file and feel spectical you can tell us and we will explain why and what they are there for.
-: 
-5. Our custom commands/features will be listed in the #description section of the discord server: an update log & commands/features will be provided after every major update, and tiny patch fixes will be in #patches
+4. Our custom commands/features will be listed in the #description section of the discord server: an update log & commands/features will be provided after every major update, and tiny patch fixes will be in #patches
 
-6. If you feel suspicious of this give us a break and just don't install it, no need to say 'I think this may be a virus guys 🤓'.
+5. If you feel suspicious of this give us a break and just don't install it, no need to say 'I think this may be a virus guys 🤓'.
