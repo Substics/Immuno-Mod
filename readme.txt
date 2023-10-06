@@ -1,6 +1,6 @@
 Immuno™ ©
 
-1. If an questions just leave them as comments under the github repo, please include above question '--QUESTION--' to make it easier to tell what is a question or a comment.
+1. If any questions just leave them in the discord server #help tab, please include above the question '--QUESTION--' to make it easier to tell what is a question or a general help message.
 
 2. Do not change any of the file names (this can cause issues when: enabling, disabling, updating).
 
@@ -10,4 +10,4 @@ Immuno™ ©
 
 5. Our custom commands/features will be listed in the repo description as an update log & commands/features section.
 
-6. If you feel suspisious of this give us a break and just dont install it, no need to say 'I think this may be a virus 🤓'.
+6. If you feel suspicious of this give us a break and just don't install it, no need to say 'I think this may be a virus guys 🤓'.
